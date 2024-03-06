@@ -3,6 +3,11 @@ Nuevo GIT
 gif diff
 este enlista una lista de cambios
 creando ramas para trabajar fuera de la linea principal
+<<<<<<< HEAD
 Vamos nuevamente desde VS Code
 
 Cambios desde GitHub
+=======
+Wowwwwww mi primer modificación con GITHUB
+Vamos nuevamente a ver si el cambio se actualiza!
+>>>>>>> 39cd9b4c627321dc545b7f1e8c66f5c452725a60
